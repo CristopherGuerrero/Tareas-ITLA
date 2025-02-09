@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\bin\Debug\net8.0\Tarea 2 Par o Impar.exe
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\bin\Debug\net8.0\Tarea 2 Par o Impar.deps.json
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\bin\Debug\net8.0\Tarea 2 Par o Impar.runtimeconfig.json
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\bin\Debug\net8.0\Tarea 2 Par o Impar.dll
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\bin\Debug\net8.0\Tarea 2 Par o Impar.pdb
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\Tarea 2 Par o Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\Tarea 2 Par o Impar.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\Tarea 2 Par o Impar.AssemblyInfo.cs
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\Tarea 2 Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\Tarea 2 Par o Impar.dll
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\refint\Tarea 2 Par o Impar.dll
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\Tarea 2 Par o Impar.pdb
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\Tarea 2 Par o Impar.genruntimeconfig.cache
+C:\Users\crist\source\repos\Tarea 2 Par o Impar\Tarea 2 Par o Impar\obj\Debug\net8.0\ref\Tarea 2 Par o Impar.dll
