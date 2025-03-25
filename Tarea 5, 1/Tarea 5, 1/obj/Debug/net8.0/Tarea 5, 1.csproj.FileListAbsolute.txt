@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\bin\Debug\net8.0\Tarea 5, 1.exe
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\bin\Debug\net8.0\Tarea 5, 1.deps.json
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\bin\Debug\net8.0\Tarea 5, 1.runtimeconfig.json
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\bin\Debug\net8.0\Tarea 5, 1.dll
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\bin\Debug\net8.0\Tarea 5, 1.pdb
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\Tarea 5, 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\Tarea 5, 1.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\Tarea 5, 1.AssemblyInfo.cs
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\Tarea 5, 1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\Tarea 5, 1.dll
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\refint\Tarea 5, 1.dll
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\Tarea 5, 1.pdb
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\Tarea 5, 1.genruntimeconfig.cache
+C:\Users\crist\source\repos\Tarea 5, 1\Tarea 5, 1\obj\Debug\net8.0\ref\Tarea 5, 1.dll
